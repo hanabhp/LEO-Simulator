@@ -137,18 +137,7 @@ FIGURE_SIZES = {
 }
 ```
 
-## Citation
 
-If you use this simulator in your research, please cite:
-
-```bibtex
-@article{pasandi2024orbit,
-  title={Orbit Recovery: Real-Time Optimization for Resilient Direct-to-Device LEO Networks},
-  author={Pasandi, Hannaneh B and Fraire, Juan A and Ratnasamy, Sylvia and Raviano, Herve},
-  journal={arXiv preprint},
-  year={2024}
-}
-```
 
 ## Contributing
 
@@ -166,11 +155,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - UC Berkeley
 - INRIA-Lyon
-- Research supported by [funding organization]
+
 
 ## Contact
 
 For questions or support, please contact:
-- Name: [Your Name]
-- Email: [Your Email]
-- Organization: [Your Organization]
+- Hana B. Pasandi
+- Email: h.pasandi@berkeley.edu
+
